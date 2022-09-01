@@ -1,1 +1,1 @@
-# angeliq
+# angeliq - a fitness and travel app
